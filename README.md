@@ -6,7 +6,7 @@ I am Bora Ceylan, a 20-year-old student at Bocconi University, where I am pursui
 
 - 🌱 I have a deep passion for **finance** and **data science**.
 - 💼 I'm looking for internships in **data science**, **machine learning**, and **AI**.
-- 📚 I enjoy working on projects related to **financial news sentiment analysis** and **AI-based exam generation**.
+- 📚 I enjoy working on projects related to **finance**.
 - 💬 Feel free to reach out if you want to connect or collaborate!
 
 ## Skills
