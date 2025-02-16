@@ -13,12 +13,15 @@ I am Bora Ceylan, a 20-year-old student at Bocconi University, where I am pursui
 
 - **Languages**: Python, Java, R
 - **Technologies**: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Keras, Seaborn, Matplotlib
-- **Tools**: Git, GitHub, Jupyter Notebook, VS Code
+- **Tools**: GitHub, Jupyter Notebook, VS Code
 
 ## Projects
 
 Here are a few projects I've worked on:
-- Currently developing an LSTM for analyzing financial news sentiment.
+- Financial Sentiment Classifier
+- Portfolio Maximization
+- Stock Price Prediction
+- VaR Testing
 
 ## Connect Me!
 - [LinkedIn](https://www.linkedin.com/in/bora-ceylan-240087222/)
