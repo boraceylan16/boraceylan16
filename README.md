@@ -20,7 +20,7 @@ I am Bora Ceylan, a 20-year-old student at Bocconi University, where I am pursui
 Here are a few projects I've worked on:
 - Financial Sentiment Classifier
 - Portfolio Maximization
-- Stock Price Prediction
+- Gold Price Prediction
 - VaR Testing
 
 ## Connect Me!
