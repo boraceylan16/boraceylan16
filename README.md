@@ -11,7 +11,7 @@ I am Bora Ceylan, a 20-year-old student at Bocconi University, where I am pursui
 
 ## Skills
 
-- **Languages**: Python, Java, R
+- **Languages**: Python, Java, R, Typescript, Javascript, HTML, CSS
 - **Technologies**: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Keras, Seaborn, Matplotlib
 - **Tools**: GitHub, Jupyter Notebook, VS Code
 
@@ -20,8 +20,8 @@ I am Bora Ceylan, a 20-year-old student at Bocconi University, where I am pursui
 Here are a few projects I've worked on:
 - Financial Sentiment Classifier
 - Portfolio Maximization
-- Gold Price Prediction
-- VaR Testing
+- Stock Performance Prediction 
+- Skin Cancer Disease Classification
 
 ## Connect Me!
 - [LinkedIn](https://www.linkedin.com/in/bora-ceylan-240087222/)
